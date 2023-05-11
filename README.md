@@ -6,7 +6,7 @@
   <a href="in process">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://api.whatsapp.com/send?phone=79811528814">
+   <a href="https://api.whatsapp.com/send?phone=79811528814&text=Denisov%20Pavel%20QA">
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="https://t.me/SayhiPash">
