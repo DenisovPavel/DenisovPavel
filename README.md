@@ -6,9 +6,10 @@
   <a href="in process">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/SayhiPash">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+ 
 </div>
 </div>
 
