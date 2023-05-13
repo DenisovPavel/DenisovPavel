@@ -56,7 +56,7 @@
 
 ### :chart_with_downwards_trend: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=DenisovPavel
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenisovPavel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
