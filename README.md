@@ -26,11 +26,11 @@
 - 🔭 I’m a begginer QA Engineer.
 - 🌱 I’m currently learning in developer course in GB company.
 
-
+<div id="header" align="center">
 <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEwOGNhZjNlYzY0MWRlYzhhY2M3ZWEyYzZhM2Y4NzlkODM0Yjg0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NHUONhmbo448/giphy.gif" width="350"/>
   </div>
-
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
