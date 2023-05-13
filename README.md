@@ -27,6 +27,11 @@
 
 - 🔭 I’m a begginer QA Engineer.
 - 🌱 I’m currently learning in developer course in GB company.
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me --> you can get all contacts higher on through the buttons.
--->
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+
