@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlNWE1N2FiZTIzOTM4N2NhYTVmMGU2YjM2Y2IyZTkzZGViODkxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Tgw604MyLJnDtbi4t0/giphy.gif" width="550"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlNWE1N2FiZTIzOTM4N2NhYTVmMGU2YjM2Y2IyZTkzZGViODkxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Tgw604MyLJnDtbi4t0/giphy.gif" width="350"/>
 <div id="badges">
   <a href="in process">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,7 +28,7 @@
 
 
 <div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEwOGNhZjNlYzY0MWRlYzhhY2M3ZWEyYzZhM2Y4NzlkODM0Yjg0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NHUONhmbo448/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEwOGNhZjNlYzY0MWRlYzhhY2M3ZWEyYzZhM2Y4NzlkODM0Yjg0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NHUONhmbo448/giphy.gif" width="350"/>
   </div>
 
 ### :hammer_and_wrench: Languages and Tools :
