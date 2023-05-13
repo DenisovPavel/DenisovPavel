@@ -60,7 +60,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisovPavel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<div>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="350"/>
+  </div>
 
 
 
