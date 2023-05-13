@@ -22,7 +22,7 @@
 </div>
 
 
----
+
 - 🔭 I’m a begginer QA Engineer.
 - 🌱 I’m currently learning in developer course in GB company.
 ---
