@@ -22,16 +22,16 @@
 </div>
 
 
-
+---
 - 🔭 I’m a begginer QA Engineer.
 - 🌱 I’m currently learning in developer course in GB company.
-
+---
 <div id="header" align="center">
 <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEwOGNhZjNlYzY0MWRlYzhhY2M3ZWEyYzZhM2Y4NzlkODM0Yjg0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NHUONhmbo448/giphy.gif" width="350"/>
   </div>
 </div>
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -53,16 +53,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
-
+---
 ### :chart_with_downwards_trend: My Stats :
-
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenisovPavel&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisovPavel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div id="header" align="center">
 <div>
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="350"/>
+  </div>
   </div>
 
 
