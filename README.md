@@ -63,7 +63,7 @@
 
 <div id="header" align="center">
 <div>
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="750"/>
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="750"/>
   </div>
   </div>
 
