@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlNWE1N2FiZTIzOTM4N2NhYTVmMGU2YjM2Y2IyZTkzZGViODkxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Tgw604MyLJnDtbi4t0/giphy.gif" width="350"/>
 <div id="badges">
-  <a href="in process">
+  <a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B4%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2-b3a8b4276">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://api.whatsapp.com/send?phone=79811528814&text=Send%20t0%20Denisov%20Pavel">
