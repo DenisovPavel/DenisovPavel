@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m a begginer QA Engineer.
-- 🌱 I’m currently learning in developer course in GB company.
+- 🌱 Ада Лавлейс. «Если ваша работа не документирована, значит вы не работали».
 ---
 <div id="header" align="center">
 <div>
