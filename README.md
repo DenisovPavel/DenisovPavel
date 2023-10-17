@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=DenisovPavel&style=flat-square&color=blue" alt=""/>
   </div>
     <h1>
-  <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" width="350px"/>
+  <img src="" width="350px"/>
 </h1>
 </div>
 
@@ -26,8 +26,7 @@
 - 🔭 I’m a begginer QA Engineer.
 - 🌱 Ада Лавлейс. «Если ваша работа не документирована, значит вы не работали».
 ---
-<div id="header" align="center">
-</div>
+
 <div id="header" align="center">
 <div>
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="750"/>
