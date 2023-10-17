@@ -26,10 +26,10 @@
 ---
 
 ### About Me :  
- I’m QA specialist :mag_right:
- :coffee: Coffee lover & running :running:
- :man_dancing: ex` bboy 
- Im :sagittarius:
+- I’m QA specialist :mag_right:
+- :coffee: Coffee lover & running :running:
+- :man_dancing: ex` bboy 
+- Im :sagittarius:
 
 
 ---
