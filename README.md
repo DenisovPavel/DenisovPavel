@@ -17,7 +17,8 @@
     <img src="https://komarev.com/ghpvc/?username=DenisovPavel&style=flat-square&color=blue" alt=""/>
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" width="350"/>
-
+</div>
+  </div>
 
 
 - 🔭 I’m a begginer QA Engineer.
