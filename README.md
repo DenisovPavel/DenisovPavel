@@ -56,12 +56,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenisovPavel&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisovPavel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
-<div id="header" align="center">
-<div>
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="750"/>
-  </div>
-  </div>
 
 
 
