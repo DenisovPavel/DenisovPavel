@@ -19,14 +19,13 @@
   <img src="https://media.giphy.com/media/4WSTSdQZXwME0/giphy.gif" width="550"/>
   <div>
 
-
 ---
 
  🌱 Ада Лавлейс. «Если ваша работа не документирована, значит вы не работали».
  
 ---
 
-### :man_technologist: About Me :  
+###:man_technologist: About Me :  
 
 
 - :microscope: I’m QA specialist :mag_right:
