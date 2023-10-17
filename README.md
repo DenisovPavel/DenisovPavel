@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=DenisovPavel&style=flat-square&color=blue" alt=""/>
   </div>
     <h1>
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="350px"/>
+  <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" width="350px"/>
 </h1>
 </div>
 
@@ -27,10 +27,13 @@
 - 🌱 Ада Лавлейс. «Если ваша работа не документирована, значит вы не работали».
 ---
 <div id="header" align="center">
-<div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEwOGNhZjNlYzY0MWRlYzhhY2M3ZWEyYzZhM2Y4NzlkODM0Yjg0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NHUONhmbo448/giphy.gif" width="350"/>
-  </div>
 </div>
+<div id="header" align="center">
+<div>
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="750"/>
+  </div>
+  </div>
+
 
 ---
 
