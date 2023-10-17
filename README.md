@@ -15,11 +15,7 @@
 </div>
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=DenisovPavel&style=flat-square&color=blue" alt=""/>
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4WSTSdQZXwME0/giphy.gif" width="550"/>
-  <div>
-  <div>
-   
+    
 ---
 
 ### :man_technologist: About Me : 
@@ -29,7 +25,12 @@
 - :man_dancing: ex` bboy 
 - Im :sagittarius:
 
+---
 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/4WSTSdQZXwME0/giphy.gif" width="550"/>
+  <div>
+  <div>
 ---
 
 <div align="center">
