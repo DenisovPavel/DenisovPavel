@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=DenisovPavel&style=flat-square&color=blue" alt=""/>
   </div>
     <h1>
-  <img src="" width="350px"/>
+  <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" width="350px"/>
 </h1>
 </div>
 
