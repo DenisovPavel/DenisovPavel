@@ -25,10 +25,8 @@
  
 ---
 
-###:man_technologist: About Me :  
-
-
-- :microscope: I’m QA specialist :mag_right:
+### :man_technologist: About Me :  
+ I’m QA specialist :mag_right:
 
 - :coffee: Coffee lover & running :running:
 
