@@ -24,8 +24,8 @@
 - 🌱 Ада Лавлейс. «Если ваша работа не документирована, значит вы не работали».
 ---
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/W4RiAiY5BNiTcAO0Zw/giphy-downsized-large.gif" width="550"/>
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/4WSTSdQZXwME0/giphy.gif)" width="550"/>
   <div>
 
 
